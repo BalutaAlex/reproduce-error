@@ -1,0 +1,4 @@
+.classThatShouldOverwriteBaseStyle {
+  color: green;
+  background-color: black;
+}
